@@ -1,0 +1,1 @@
+# kindred-hue-assets.
